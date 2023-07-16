@@ -2,11 +2,9 @@
   "name": "chatlify",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node start.js",
-    "start-dev": "nodemon start.js"
+    "start": "nodemon Backend/server.js"
   },
   "repository": {
     "type": "git",
